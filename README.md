@@ -1,11 +1,11 @@
 ## androidx-room-common
 
 Eclipse library project based on:<br/>
-https://maven.google.com/androidx/room/room-common/2.2.2/room-common-2.2.2.jar
+https://maven.google.com/androidx/room/room-common/2.2.3/room-common-2.2.3.jar
 
 **Import:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
-  https://raw.githubusercontent.com/dandar3/android-androidx-room-common/2.2.2/.projectset
+  https://raw.githubusercontent.com/dandar3/android-androidx-room-common/2.2.3/.projectset
 
 **Requires:**
 - `Android 9 (API 28) SDK Platform`
